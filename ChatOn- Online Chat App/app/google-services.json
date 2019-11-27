@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "575826906662",
+    "firebase_url": "https://chaton-online-chat-app.firebaseio.com",
+    "project_id": "chaton-online-chat-app",
+    "storage_bucket": "chaton-online-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575826906662:android:09349e608192aea7a560e7",
+        "android_client_info": {
+          "package_name": "com.example.chaton_onlinechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575826906662-623bvimifqssigtroksj4vtkhv5544uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaton_onlinechatapp",
+            "certificate_hash": "158fa89b0a0ce229c09a2b28381e9f273b023d0d"
+          }
+        },
+        {
+          "client_id": "575826906662-85qj75rhtf7qcga137mgov9svh1mtcqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtCGLbSB2aRiGF3zE6Ug0ZaCezKTvUs5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575826906662-85qj75rhtf7qcga137mgov9svh1mtcqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
